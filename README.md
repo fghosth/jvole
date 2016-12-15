@@ -1,4 +1,5 @@
 # 使用
+```
 package main
 import (
 "github.com/g4zhuj/hashring"
@@ -56,3 +57,4 @@ func main (){
       //}
 
 }
+```
