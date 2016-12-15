@@ -2,7 +2,7 @@
 ```
 package main
 import (
-"github.com/g4zhuj/hashring"
+"github.com/jvole/hashring"
 "fmt"
 )
 
