@@ -1,6 +1,6 @@
 package main
 import (
-"github.com/fghosth/jvole/hashing"
+"github.com/g4zhuj/hashring"
 "fmt"
 )
 
