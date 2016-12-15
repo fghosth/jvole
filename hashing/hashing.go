@@ -1,4 +1,4 @@
-package jvole
+package hashing
 import (
 	"crypto/sha1"
 	//	"hash"
