@@ -1,5 +1,4 @@
-package hashring
-
+package jvole
 import (
 	"crypto/sha1"
 	//	"hash"
